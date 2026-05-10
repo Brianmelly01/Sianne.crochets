@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd sianne-crochets && npm run build",
+  "outputDirectory": "sianne-crochets/.next",
+  "installCommand": "cd sianne-crochets && npm install",
+  "devCommand": "cd sianne-crochets && npm run dev",
+  "framework": "nextjs"
+}
